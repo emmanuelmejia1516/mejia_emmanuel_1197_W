@@ -7,6 +7,12 @@ resultado:
 ![image](https://github.com/user-attachments/assets/0b1d8aea-0326-47f7-8af4-e5233b61459c)
 resultado:
 ![image](https://github.com/user-attachments/assets/b23b3b0f-a746-4219-a72c-7b48106fbe0d)
+#cual es menor y suma
+![image](https://github.com/user-attachments/assets/223e6de1-24d6-4c96-8439-29710783d9ce)
+resultado:
+![image](https://github.com/user-attachments/assets/a057f847-b3be-4a99-b74d-c2c8d9f689fd)
+
+
 
 
 
