@@ -15,7 +15,11 @@ resultado:
 ![image](https://github.com/user-attachments/assets/87c58a3b-44df-4ed0-884a-28289604305c)
 resultado:
 ![image](https://github.com/user-attachments/assets/94825ad0-3693-41a0-ac6f-012c9bc095c3)
-#sacar el factorial de un nuemro
+#sacar el factorial de un numero
+![image](https://github.com/user-attachments/assets/47e507fa-7e5e-4c18-b2d7-b3495d433fba)
+resultado:
+![image](https://github.com/user-attachments/assets/e000277a-e270-4819-81ab-f2ffee193781)
+
 
 
 
