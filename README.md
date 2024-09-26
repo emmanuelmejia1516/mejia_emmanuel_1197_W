@@ -11,6 +11,12 @@ resultado:
 ![image](https://github.com/user-attachments/assets/223e6de1-24d6-4c96-8439-29710783d9ce)
 resultado:
 ![image](https://github.com/user-attachments/assets/a057f847-b3be-4a99-b74d-c2c8d9f689fd)
+8)par o impar
+![image](https://github.com/user-attachments/assets/87c58a3b-44df-4ed0-884a-28289604305c)
+resultado:
+![image](https://github.com/user-attachments/assets/94825ad0-3693-41a0-ac6f-012c9bc095c3)
+
+
 
 
 
